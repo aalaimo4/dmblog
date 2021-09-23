@@ -6,11 +6,11 @@ categories: [DM]
 tags: [DM]
 ---
 
-Unlike most traditional board games like Monopoly, Clue or The Game of Life, the rules for D&D are not an instruction guide on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game so don't sweat it if you don't know that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you'll learn to flip through the rule book when a situation arises you don't know how to handle and crease the pages of the book enough to flip to the exact spot.
+Unlike most traditional board games you've heard of like Monopoly, Clue, or The Game of Life, the rules for D&D are not instructions on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game, so don't sweat it if you are unaware that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you'll learn to flip through the rule book when a situation arises that you don't know how to handle and crease the pages of the book enough to flip to the exact spot.
 
 ## Game Rules
 
-Now the biggest question of your DM-ing career is figuring out if you are old-school and like having notes written down in front of you or whether you prefer the convenience of technology. Either way Wizards of the Coast, the publishers of D&D, have made the basic rules available free for everyone to use, both digitally and in a pdf for you to print.
+Now the biggest question of your DM-ing career is figuring out if you are old-school and like having notes written down in front of you or whether you prefer the convenience of technology. Either way, Wizards of the Coast, the publishers of D&D, have made the basic rules available free for everyone to use, both digitally and in a pdf for you to print.
 
 If you want all the rules offline, at your fingertips, this is the best place to get them: [Basic rules in a PDF](https://dnd.wizards.com/articles/features/basicrules)`
 
@@ -40,11 +40,11 @@ Here are some places where you should give a brief glance to know what they cont
 - Ch. 1: Step-by-Step Characters
   > Gives you an idea of how adventurers are made
 - Ch. 2: Races
-  > More for inspiration for the different types of inhabitants of this world
+  > More for inspiration of the different types of inhabitants that roam this world
 - Ch. 3: Classes
   > For an idea of what the adventurers can actually do
 - Ch. 5: Equipment
-  > For when the players eventually decide to spend an hour browsing a merchant's stall
+  > For when the players eventually decide to spend an hour(s) browsing a merchant's stall
 - Ch. 11: Spells
   > Gives you an idea of all the ways the adventurers can mess with your world and it's inhabitants
 - Ch. 14: Magic Items
